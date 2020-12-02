@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\bin\Debug\Proyecto_IS.exe.config
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\bin\Debug\Proyecto_IS.exe
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\bin\Debug\Proyecto_IS.pdb
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\obj\Debug\Proyecto_IS.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\obj\Debug\Proyecto_IS.Form1.resources
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\obj\Debug\Proyecto_IS.Properties.Resources.resources
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\obj\Debug\Proyecto_IS.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\obj\Debug\Proyecto_IS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\obj\Debug\Proyecto_IS.exe
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\obj\Debug\Proyecto_IS.pdb
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HP\source\repos\Proyecto_IS\Proyecto_IS\obj\Debug\Proyecto_IS.csproj.CopyComplete
